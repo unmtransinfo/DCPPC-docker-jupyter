@@ -1,4 +1,8 @@
 # Running a UNM Jupyter Notebook within IRODS
+
+Developed by Mike Garcia, Blackbean LLC, for the Data Commons Pilot Project Consortium (DCPPC).
+Docker container with IRODS, Jupyter, and GTEx.
+
 ## Steps to run the container
 1. Clone this repository
 1. Make sure to have your IRODS authentication info handy
